@@ -1,0 +1,9 @@
+2026-10-10T09:00:01Z INFO device=thermostat-01 boot complete
+2026-10-10T09:01:12Z INFO connection accepted src_ip=192.168.1.10 port=8883
+2026-10-10T09:02:05Z WARN failed login user=admin src_ip=203.0.113.77
+2026-10-10T09:02:11Z WARN failed login user=admin src_ip=203.0.113.77
+2026-10-10T09:02:19Z WARN failed login user=admin src_ip=203.0.113.77
+2026-10-10T09:03:02Z INFO connection request src_ip=203.0.113.77 port=23
+2026-10-10T09:10:44Z ERROR sensor_reading_failed sensor=temperature
+2026-10-10T09:15:00Z WARN device rebooted reason=watchdog_timeout
+2026-10-10T09:20:00Z INFO connection accepted src_ip=192.168.1.10 port=8883
