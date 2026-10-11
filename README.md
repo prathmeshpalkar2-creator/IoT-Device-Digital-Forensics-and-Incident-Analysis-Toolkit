@@ -1,0 +1,2 @@
+# IoT-Device-Digital-Forensics-and-Incident-Analysis-Toolkit
+# IoT Device Digital Forensics &amp; Incident Analysis Toolkit  A Java-based modular toolkit designed to analyze, parse, and investigate digital evidence from Internet of Things (IoT) devices. This project automates log parsing, evidence hashing (chain of custody)and forensic report generation to assist investigators in identifying security incidents. 
